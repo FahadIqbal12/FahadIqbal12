@@ -2,17 +2,18 @@
 # 💫 About Me:
 Hi, I am Fahad a self-taught developer who has a passion for 
 coding. I started learning to code when I was in 7th grade.
-I have made many projects in multiple domains from Web 
-development to App development. When I was in grade 9th, I built a 
+I have done many projects in multiple domains from Web 
+development to App development. When I was in grade 9, I built a 
 SaaS from scratch and was able to scale it. But I always wanted to 
 work on some futuristic projects and Blockchain really caught my 
-attention. And I started learning Blockchain and made amazing 
-projects. Currently, I am building Web3Forge: an educational web3 platform with my team(present mostly from INDIA). 
+attention. I started learning Blockchain, made unique 
+projects, and won multiple hackathons. 
 
 <br/>
 
 Hackathons:
   - 🏅 [Hackoverflow 6.0](https://devfolio.co/projects/medichain-9d53) 🏅 - 2nd Rank</br>
+  - 🏅 [Live the code 2.0](https://devfolio.co/projects/tune-fcbe) 🏅 - Pool </br>
 
 🔭 I’m currently working on some personal projects.<br>👯 I’m looking to collaborate on amazing projects or ideas.<br>🤝 I’m looking for help from everyone.<br>🌱 I’m currently learning about future technology.<br>💬 Ask me about anything you want.
 ### [View My Portfolio](https://fahad-iqbal-zafar.netlify.app/) for more details
