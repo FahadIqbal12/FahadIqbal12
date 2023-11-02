@@ -4,8 +4,8 @@ Hi, I am Fahad a self-taught developer who has a passion for
 coding. I started learning to code when I was in 7th grade.
 I have done many projects in multiple domains from Web 
 development to App development. When I was in grade 9, I built a 
-SaaS from scratch and was able to scale it. But I always wanted to 
-work on some futuristic projects and Blockchain really caught my 
+Mobile app development agency from scratch and was able to scale it. But I always wanted to 
+work on futuristic projects and Blockchain caught my 
 attention. I started learning Blockchain, made unique 
 projects, and won multiple hackathons. 
 
