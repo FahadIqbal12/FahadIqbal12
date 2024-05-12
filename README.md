@@ -9,14 +9,7 @@ work on futuristic projects and Blockchain caught my
 attention. I started learning Blockchain, made unique 
 projects, and won multiple hackathons. 
 
-<br/>
 
-Hackathons:
-  - 🏅 [Hackoverflow 6.0](https://devfolio.co/projects/medichain-9d53) 🏅 - 2nd Rank</br>
-  - 🏅 [Live the code 2.0](https://devfolio.co/projects/tune-fcbe) 🏅 - Pool </br>
-
-🔭 I’m currently working on some personal projects.<br>👯 I’m looking to collaborate on amazing projects or ideas.<br>🤝 I’m looking for help from everyone.<br>🌱 I’m currently learning about future technology.<br>💬 Ask me about anything you want.
-### [View My Portfolio](https://fahad-iqbal-zafar.netlify.app/) for more details
 
 ## 🌐 Socials:
 [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' width=50/>](https://www.linkedin.com/in/fahad-iqbal-zafar?)
