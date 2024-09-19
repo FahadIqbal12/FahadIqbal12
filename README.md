@@ -1,13 +1,6 @@
 
 # 💫 About Me:
-Hi, I am Fahad a self-taught developer who has a passion for 
-coding. I started learning to code when I was in 7th grade.
-I have done many projects in multiple domains from Web 
-development to App development. When I was in grade 9, I built a 
-Mobile app development agency from scratch and was able to scale it. But I always wanted to 
-work on futuristic projects and Blockchain caught my 
-attention. I started learning Blockchain, made unique 
-projects, and won multiple hackathons. 
+Hello, I’m Fahad, a self-taught developer with a passion for coding that began in 9th grade. My journey into technology started with learning various programming languages and creating small projects. This early enthusiasm for coding set the foundation for my future endeavors. After high school, I founded an app development agency. What started as a small initiative quickly expanded, and I successfully scaled it to serve over 100 customers. We specialized in developing a wide range of applications, from simple mobile apps to complex enterprise solutions, always prioritizing quality and user experience. As technology advanced, I became fascinated by blockchain and cryptocurrency. I dedicated myself to learning blockchain development and began building blockchain-based applications, contributing to the decentralized finance (DeFi) ecosystem. In addition to running my agency and working on blockchain projects, I have participated in numerous national and international hackathons. These competitions provided me with a platform to showcase my skills, collaborate with other talented developers, and innovate. Winning several hackathons has been a highlight of my career. Currently, I am exploring the field of Artificial Intelligence (AI) and Machine Learning (ML). I am focused on developing machine learning models and integrating AI into applications to solve complex problems and enhance user experiences. My journey is driven by continuous learning and a commitment to innovation.
 
 
 
